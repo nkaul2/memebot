@@ -4,6 +4,8 @@ A discord bot that plays memes in the chat based off messages that happen in the
 
 Some of these are inside jokes, others are memes that exist on tiktok, etc. 
 
+Made by Svapnil and Nikhil, Akif didn't do anything...
+
 ## Adding a Meme
 
 Memes can be added to the `meme_config.py` file on the `REGEX_TO_MEME` variable.
